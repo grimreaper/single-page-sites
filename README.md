@@ -1,4 +1,4 @@
-# single-page-sites
+# single-serving-sites
 
 # Is California On Fire?
 
@@ -21,3 +21,7 @@ https://howsecureismypassword.net/
 # Do I Need An Umbrella?
 
 http://doineedanumbrella.com/
+
+# Sometimes Red Sometimes Blue
+
+http://sometimesredsometimesblue.com/
