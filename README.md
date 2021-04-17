@@ -13,3 +13,11 @@ https://covidstandardtime.com/
 https://istheshipstillstuck.com/
 
 Tracks if the Ever Given is still stuck in the Suez Canal. Shows the current location of the ship and other relevent news.
+
+# How Secure Is My Password?
+
+https://howsecureismypassword.net/
+
+# Do I Need An Umbrella?
+
+http://doineedanumbrella.com/
