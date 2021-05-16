@@ -50,3 +50,13 @@ http://beesbeesbees.com/
 ## Sad Trombone
 
 https://sadtrombone.com/
+
+# URLs
+
+## Shady URL
+
+http://shadyurl.com/
+
+## AAA URL Lengthener
+
+https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/
