@@ -27,6 +27,9 @@ http://sometimesredsometimesblue.com/
 ## Is It Christmas?
 https://isitchristmas.com/
 
+##  Is Freenode Dead Yet?
+https://isfreenodedeadyet.com/
+
 ## How Many People Are In Space Right Now?
 
 https://www.howmanypeopleareinspacerightnow.com/
